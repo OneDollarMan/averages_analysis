@@ -1,0 +1,6 @@
+.idea
+.venv
+static
+**/.DS_Store
+*.db
+*.csv
